@@ -1,0 +1,14 @@
+D:\DotNet\Practice\Arrays\bin\Debug\Arrays.exe.config
+D:\DotNet\Practice\Arrays\bin\Debug\Arrays.exe
+D:\DotNet\Practice\Arrays\bin\Debug\Arrays.pdb
+D:\DotNet\Practice\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\DotNet\Practice\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\DotNet\Practice\Arrays\obj\Debug\Arrays.exe
+D:\DotNet\Practice\Arrays\obj\Debug\Arrays.pdb
+D:\CSharp-Master\CSharp-Master\Practice\Arrays\bin\Debug\Arrays.exe.config
+D:\CSharp-Master\CSharp-Master\Practice\Arrays\bin\Debug\Arrays.exe
+D:\CSharp-Master\CSharp-Master\Practice\Arrays\bin\Debug\Arrays.pdb
+D:\CSharp-Master\CSharp-Master\Practice\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\CSharp-Master\CSharp-Master\Practice\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\CSharp-Master\Practice\Arrays\obj\Debug\Arrays.exe
+D:\CSharp-Master\CSharp-Master\Practice\Arrays\obj\Debug\Arrays.pdb
