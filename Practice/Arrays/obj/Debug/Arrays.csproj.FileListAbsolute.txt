@@ -12,3 +12,10 @@ D:\CSharp-Master\CSharp-Master\Practice\Arrays\obj\Debug\Arrays.csproj.AssemblyR
 D:\CSharp-Master\CSharp-Master\Practice\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
 D:\CSharp-Master\CSharp-Master\Practice\Arrays\obj\Debug\Arrays.exe
 D:\CSharp-Master\CSharp-Master\Practice\Arrays\obj\Debug\Arrays.pdb
+D:\CSharp-Master\Practice\Arrays\bin\Debug\Arrays.exe.config
+D:\CSharp-Master\Practice\Arrays\bin\Debug\Arrays.exe
+D:\CSharp-Master\Practice\Arrays\bin\Debug\Arrays.pdb
+D:\CSharp-Master\Practice\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\Arrays\obj\Debug\Arrays.exe
+D:\CSharp-Master\Practice\Arrays\obj\Debug\Arrays.pdb

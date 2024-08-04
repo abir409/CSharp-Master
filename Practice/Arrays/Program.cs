@@ -25,23 +25,54 @@ namespace Arrays
 
             //jagged arrays
 
-            int [][] z = new int[5][];
+            //int [][] z = new int[5][];
 
-            z[0] = new int[] {1,2};
-            z[1] = new int[] { 3, 4, 5 };
-            z[2] = new int[] { 6 };
-            z[3] = new int[] { 7 };
-            z[4] = new int[] { 8, 9, 10 };
+            //z[0] = new int[] {1,2};
+            //z[1] = new int[] { 3, 4, 5 };
+            //z[2] = new int[] { 6 };
+            //z[3] = new int[] { 7 };
+            //z[4] = new int[] { 8, 9, 10 };
 
-            for(int row= 0; row < z.Length; row++)
+            //for(int row= 0; row < z.Length; row++)
+            //{
+            //    for(int col = 0; col < z[row].Length; col++)
+            //    {
+            //        Console.Write(z[row][col]);
+            //    }
+            //    Console.WriteLine();
+            //}
+            string[] friends = new string[3];
+
+            friends[0] = "Abir";
+            friends[1] = "Shafin";
+            friends[2] = "Rakib";
+
+            string[][] Breakfast = new string[3][];
+
+            Breakfast[0] = new string[2];
+            Breakfast[1] = new string[2];
+            Breakfast[2] = new string[1];
+
+            Breakfast[0][0] = "Bread";
+            Breakfast[0][1] = "Orange Juice";
+
+            Breakfast[1][0] = "Panta vaat";
+            Breakfast[1][1] = "Alu vorta";
+
+            Breakfast[2][0] = "Pasta";
+
+            for (int i = 0; i < Breakfast.Length; i++)
             {
-                for(int col = 0; col < z[row].Length; col++)
+                string[] ArrayElements = Breakfast[i];  
+                Console.WriteLine(friends[i]);
+                Console.WriteLine("---------------------");
+                for (int j = 0; j < ArrayElements.Length; j++)
                 {
-                    Console.Write(z[row][col]);
+                    Console.WriteLine(ArrayElements[j]);
                 }
                 Console.WriteLine();
-            }
 
+            }
             
         }
     }
