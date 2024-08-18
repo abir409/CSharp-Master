@@ -1,0 +1,7 @@
+D:\CSharp-Master\Practice\Binary\bin\Debug\Binary.exe.config
+D:\CSharp-Master\Practice\Binary\bin\Debug\Binary.exe
+D:\CSharp-Master\Practice\Binary\bin\Debug\Binary.pdb
+D:\CSharp-Master\Practice\Binary\obj\Debug\Binary.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\Binary\obj\Debug\Binary.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\Binary\obj\Debug\Binary.exe
+D:\CSharp-Master\Practice\Binary\obj\Debug\Binary.pdb

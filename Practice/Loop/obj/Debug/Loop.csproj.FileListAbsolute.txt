@@ -1,0 +1,7 @@
+D:\CSharp-Master\Practice\Loop\bin\Debug\Loop.exe.config
+D:\CSharp-Master\Practice\Loop\bin\Debug\Loop.exe
+D:\CSharp-Master\Practice\Loop\bin\Debug\Loop.pdb
+D:\CSharp-Master\Practice\Loop\obj\Debug\Loop.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\Loop\obj\Debug\Loop.exe
+D:\CSharp-Master\Practice\Loop\obj\Debug\Loop.pdb
