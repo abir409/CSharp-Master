@@ -1,0 +1,7 @@
+D:\CSharp-Master\Practice\Methods\bin\Debug\Methods.exe.config
+D:\CSharp-Master\Practice\Methods\bin\Debug\Methods.exe
+D:\CSharp-Master\Practice\Methods\bin\Debug\Methods.pdb
+D:\CSharp-Master\Practice\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\Methods\obj\Debug\Methods.exe
+D:\CSharp-Master\Practice\Methods\obj\Debug\Methods.pdb
