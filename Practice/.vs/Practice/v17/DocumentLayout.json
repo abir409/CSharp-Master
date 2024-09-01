@@ -3,7 +3,39 @@
   "WorkspaceRootPath": "D:\\CSharp-Master\\Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58161DFB-B4CA-421A-95A8-EB4B5E00E3D2}|OOP\\OOP.csproj|d:\\csharp-master\\practice\\oop\\waterbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|D:\\CSharp-Master\\Practice\\oop2\\vipmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|solutionrelative:oop2\\vipmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|d:\\csharp-master\\practice\\oop2\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|solutionrelative:oop2\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|d:\\csharp-master\\practice\\oop2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|solutionrelative:oop2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|d:\\csharp-master\\practice\\oop2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|solutionrelative:oop2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|d:\\csharp-master\\practice\\oop2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|solutionrelative:oop2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A021DAD4-D8C5-40F1-82DD-F9A202EFECFB}|OOPTest\\OOPTest.csproj|D:\\CSharp-Master\\Practice\\ooptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A021DAD4-D8C5-40F1-82DD-F9A202EFECFB}|OOPTest\\OOPTest.csproj|solutionrelative:ooptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|D:\\CSharp-Master\\Practice\\oop2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|solutionrelative:oop2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A021DAD4-D8C5-40F1-82DD-F9A202EFECFB}|OOPTest\\OOPTest.csproj|D:\\CSharp-Master\\Practice\\ooptest\\vvipmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A021DAD4-D8C5-40F1-82DD-F9A202EFECFB}|OOPTest\\OOPTest.csproj|solutionrelative:ooptest\\vvipmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58161DFB-B4CA-421A-95A8-EB4B5E00E3D2}|OOP\\OOP.csproj|D:\\CSharp-Master\\Practice\\oop\\waterbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58161DFB-B4CA-421A-95A8-EB4B5E00E3D2}|OOP\\OOP.csproj|solutionrelative:oop\\waterbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -18,24 +50,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WaterBottle.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP\\WaterBottle.cs",
-              "RelativeDocumentMoniker": "OOP\\WaterBottle.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP\\WaterBottle.cs",
-              "RelativeToolTip": "OOP\\WaterBottle.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAswDUAAAAoAAAA",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP2\\Rectangle.cs",
+              "RelativeDocumentMoniker": "OOP2\\Rectangle.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP2\\Rectangle.cs",
+              "RelativeToolTip": "OOP2\\Rectangle.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T09:09:59.08Z",
+              "WhenOpened": "2024-09-01T09:54:23.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP2\\Circle.cs",
+              "RelativeDocumentMoniker": "OOP2\\Circle.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP2\\Circle.cs",
+              "RelativeToolTip": "OOP2\\Circle.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:42:00.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP2\\Shape.cs",
+              "RelativeDocumentMoniker": "OOP2\\Shape.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP2\\Shape.cs",
+              "RelativeToolTip": "OOP2\\Shape.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:07:47.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VVIPMember.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOPTest\\VVIPMember.cs",
+              "RelativeDocumentMoniker": "OOPTest\\VVIPMember.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\OOPTest\\VVIPMember.cs",
+              "RelativeToolTip": "OOPTest\\VVIPMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:17:48.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOPTest\\Program.cs",
+              "RelativeDocumentMoniker": "OOPTest\\Program.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\OOPTest\\Program.cs",
+              "RelativeToolTip": "OOPTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:28:00.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VIPMember.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP2\\VIPMember.cs",
+              "RelativeDocumentMoniker": "OOP2\\VIPMember.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP2\\VIPMember.cs",
+              "RelativeToolTip": "OOP2\\VIPMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:13:41.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP2\\Member.cs",
+              "RelativeDocumentMoniker": "OOP2\\Member.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP2\\Member.cs",
+              "RelativeToolTip": "OOP2\\Member.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:51:23.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP2\\Program.cs",
+              "RelativeDocumentMoniker": "OOP2\\Program.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP2\\Program.cs",
+              "RelativeToolTip": "OOP2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T04:49:11.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WaterBottle.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP\\WaterBottle.cs",
+              "RelativeDocumentMoniker": "OOP\\WaterBottle.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP\\WaterBottle.cs",
+              "RelativeToolTip": "OOP\\WaterBottle.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwDgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:09:59.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP\\Program.cs",
               "RelativeDocumentMoniker": "OOP\\Program.cs",
@@ -43,8 +176,7 @@
               "RelativeToolTip": "OOP\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T16:42:36.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T16:42:36.067Z"
             }
           ]
         }
