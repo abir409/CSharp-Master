@@ -16,7 +16,7 @@ namespace OOP2
 
         public override int GetAge()
         {
-            return DateTime.Now.Subtract(DateOfBirth).Days;
+            return DateTime.Now.Subtract(DateOfBirth).Days / 365;
         }
     }
 }

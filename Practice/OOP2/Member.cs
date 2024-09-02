@@ -8,6 +8,9 @@ namespace OOP2
 {
     public class Member
     {
+        private const string seed = "Abir";
+
+        private readonly int serial;
         private int Id {  get; set; }
         public string Name { get; set; }
 
@@ -24,6 +27,7 @@ namespace OOP2
         {
             Id = id;
             Balance = 50;
+            serial = 0; 
         }
 
 

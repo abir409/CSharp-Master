@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPTest", "OOPTest\OOPTest.csproj", "{A021DAD4-D8C5-40F1-82DD-F9A202EFECFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClass", "StaticClass\StaticClass.csproj", "{E6307E13-5BCC-4F60-8B96-8E209C91B843}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{A021DAD4-D8C5-40F1-82DD-F9A202EFECFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A021DAD4-D8C5-40F1-82DD-F9A202EFECFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A021DAD4-D8C5-40F1-82DD-F9A202EFECFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6307E13-5BCC-4F60-8B96-8E209C91B843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6307E13-5BCC-4F60-8B96-8E209C91B843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6307E13-5BCC-4F60-8B96-8E209C91B843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6307E13-5BCC-4F60-8B96-8E209C91B843}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

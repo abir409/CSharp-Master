@@ -1,0 +1,7 @@
+D:\CSharp-Master\Practice\StaticClass\bin\Debug\StaticClass.exe.config
+D:\CSharp-Master\Practice\StaticClass\bin\Debug\StaticClass.exe
+D:\CSharp-Master\Practice\StaticClass\bin\Debug\StaticClass.pdb
+D:\CSharp-Master\Practice\StaticClass\obj\Debug\StaticClass.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\StaticClass\obj\Debug\StaticClass.exe
+D:\CSharp-Master\Practice\StaticClass\obj\Debug\StaticClass.pdb
