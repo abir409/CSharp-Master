@@ -1,0 +1,7 @@
+D:\CSharp-Master\Practice\InterfaceUse\bin\Debug\InterfaceUse.exe.config
+D:\CSharp-Master\Practice\InterfaceUse\bin\Debug\InterfaceUse.exe
+D:\CSharp-Master\Practice\InterfaceUse\bin\Debug\InterfaceUse.pdb
+D:\CSharp-Master\Practice\InterfaceUse\obj\Debug\InterfaceUse.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\InterfaceUse\obj\Debug\InterfaceUse.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\InterfaceUse\obj\Debug\InterfaceUse.exe
+D:\CSharp-Master\Practice\InterfaceUse\obj\Debug\InterfaceUse.pdb
