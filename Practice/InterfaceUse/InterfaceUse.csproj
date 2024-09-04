@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClassA.cs" />
+    <Compile Include="ClassB.cs" />
+    <Compile Include="HoverCraft.cs" />
+    <Compile Include="IAeroplane.cs" />
+    <Compile Include="ICar.cs" />
     <Compile Include="IUSBDevice.cs" />
     <Compile Include="Keyboard.cs" />
     <Compile Include="LANCard.cs" />
