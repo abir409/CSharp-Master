@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "D:\\CSharp-Master\\Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1052F1ED-1227-484E-9DCA-3C47DA6B1CAF}|InterfaceUse\\InterfaceUse.csproj|D:\\CSharp-Master\\Practice\\interfaceuse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1052F1ED-1227-484E-9DCA-3C47DA6B1CAF}|InterfaceUse\\InterfaceUse.csproj|solutionrelative:interfaceuse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E8A6203-F831-4CCA-8F5B-0FA6E84008C5}|StructureExample\\StructureExample.csproj|d:\\csharp-master\\practice\\structureexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8A6203-F831-4CCA-8F5B-0FA6E84008C5}|StructureExample\\StructureExample.csproj|solutionrelative:structureexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1052F1ED-1227-484E-9DCA-3C47DA6B1CAF}|InterfaceUse\\InterfaceUse.csproj|d:\\csharp-master\\practice\\interfaceuse\\hovercraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1052F1ED-1227-484E-9DCA-3C47DA6B1CAF}|InterfaceUse\\InterfaceUse.csproj|solutionrelative:interfaceuse\\hovercraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E8A6203-F831-4CCA-8F5B-0FA6E84008C5}|StructureExample\\StructureExample.csproj|d:\\csharp-master\\practice\\structureexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8A6203-F831-4CCA-8F5B-0FA6E84008C5}|StructureExample\\StructureExample.csproj|solutionrelative:structureexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1052F1ED-1227-484E-9DCA-3C47DA6B1CAF}|InterfaceUse\\InterfaceUse.csproj|d:\\csharp-master\\practice\\interfaceuse\\classb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1052F1ED-1227-484E-9DCA-3C47DA6B1CAF}|InterfaceUse\\InterfaceUse.csproj|solutionrelative:interfaceuse\\classb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|d:\\csharp-master\\practice\\oop2\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|solutionrelative:oop2\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1052F1ED-1227-484E-9DCA-3C47DA6B1CAF}|InterfaceUse\\InterfaceUse.csproj|d:\\csharp-master\\practice\\interfaceuse\\classa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1052F1ED-1227-484E-9DCA-3C47DA6B1CAF}|InterfaceUse\\InterfaceUse.csproj|solutionrelative:interfaceuse\\classa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|d:\\csharp-master\\practice\\oop2\\bignumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|solutionrelative:oop2\\bignumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1052F1ED-1227-484E-9DCA-3C47DA6B1CAF}|InterfaceUse\\InterfaceUse.csproj|d:\\csharp-master\\practice\\interfaceuse\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1052F1ED-1227-484E-9DCA-3C47DA6B1CAF}|InterfaceUse\\InterfaceUse.csproj|solutionrelative:interfaceuse\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|d:\\csharp-master\\practice\\oop2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|solutionrelative:oop2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1052F1ED-1227-484E-9DCA-3C47DA6B1CAF}|InterfaceUse\\InterfaceUse.csproj|d:\\csharp-master\\practice\\interfaceuse\\iaeroplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1052F1ED-1227-484E-9DCA-3C47DA6B1CAF}|InterfaceUse\\InterfaceUse.csproj|solutionrelative:interfaceuse\\iaeroplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|d:\\csharp-master\\practice\\oop2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|solutionrelative:oop2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1052F1ED-1227-484E-9DCA-3C47DA6B1CAF}|InterfaceUse\\InterfaceUse.csproj|D:\\CSharp-Master\\Practice\\interfaceuse\\lancard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1052F1ED-1227-484E-9DCA-3C47DA6B1CAF}|InterfaceUse\\InterfaceUse.csproj|solutionrelative:interfaceuse\\lancard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1052F1ED-1227-484E-9DCA-3C47DA6B1CAF}|InterfaceUse\\InterfaceUse.csproj|D:\\CSharp-Master\\Practice\\interfaceuse\\iusbdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1052F1ED-1227-484E-9DCA-3C47DA6B1CAF}|InterfaceUse\\InterfaceUse.csproj|solutionrelative:interfaceuse\\iusbdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|d:\\csharp-master\\practice\\oop2\\verybignumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|solutionrelative:oop2\\verybignumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,111 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUSBDevice.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\InterfaceUse\\IUSBDevice.cs",
-              "RelativeDocumentMoniker": "InterfaceUse\\IUSBDevice.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\InterfaceUse\\IUSBDevice.cs",
-              "RelativeToolTip": "InterfaceUse\\IUSBDevice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\StructureExample\\Person.cs",
+              "RelativeDocumentMoniker": "StructureExample\\Person.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\StructureExample\\Person.cs",
+              "RelativeToolTip": "StructureExample\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T05:51:13.335Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LANCard.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\InterfaceUse\\LANCard.cs",
-              "RelativeDocumentMoniker": "InterfaceUse\\LANCard.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\InterfaceUse\\LANCard.cs",
-              "RelativeToolTip": "InterfaceUse\\LANCard.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T06:02:37.8Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClassB.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\InterfaceUse\\ClassB.cs",
-              "RelativeDocumentMoniker": "InterfaceUse\\ClassB.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\InterfaceUse\\ClassB.cs",
-              "RelativeToolTip": "InterfaceUse\\ClassB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T11:26:07.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClassA.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\InterfaceUse\\ClassA.cs",
-              "RelativeDocumentMoniker": "InterfaceUse\\ClassA.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\InterfaceUse\\ClassA.cs",
-              "RelativeToolTip": "InterfaceUse\\ClassA.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T11:21:50.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICar.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\InterfaceUse\\ICar.cs",
-              "RelativeDocumentMoniker": "InterfaceUse\\ICar.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\InterfaceUse\\ICar.cs",
-              "RelativeToolTip": "InterfaceUse\\ICar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T08:21:00.667Z",
+              "WhenOpened": "2024-09-05T10:08:17.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\InterfaceUse\\Program.cs",
-              "RelativeDocumentMoniker": "InterfaceUse\\Program.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\InterfaceUse\\Program.cs",
-              "RelativeToolTip": "InterfaceUse\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAArAAAA",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\StructureExample\\Program.cs",
+              "RelativeDocumentMoniker": "StructureExample\\Program.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\StructureExample\\Program.cs",
+              "RelativeToolTip": "StructureExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwA0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T05:45:18.807Z",
+              "WhenOpened": "2024-09-05T09:13:51.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HoverCraft.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\InterfaceUse\\HoverCraft.cs",
-              "RelativeDocumentMoniker": "InterfaceUse\\HoverCraft.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\InterfaceUse\\HoverCraft.cs",
-              "RelativeToolTip": "InterfaceUse\\HoverCraft.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP2\\Circle.cs",
+              "RelativeDocumentMoniker": "OOP2\\Circle.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP2\\Circle.cs",
+              "RelativeToolTip": "OOP2\\Circle.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T08:21:33.75Z",
+              "WhenOpened": "2024-09-05T07:09:14.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IAeroplane.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\InterfaceUse\\IAeroplane.cs",
-              "RelativeDocumentMoniker": "InterfaceUse\\IAeroplane.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\InterfaceUse\\IAeroplane.cs",
-              "RelativeToolTip": "InterfaceUse\\IAeroplane.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP2\\Shape.cs",
+              "RelativeDocumentMoniker": "OOP2\\Shape.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP2\\Shape.cs",
+              "RelativeToolTip": "OOP2\\Shape.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T08:21:15.304Z",
+              "WhenOpened": "2024-09-05T07:09:15.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VeryBigNumber.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP2\\VeryBigNumber.cs",
+              "RelativeDocumentMoniker": "OOP2\\VeryBigNumber.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP2\\VeryBigNumber.cs",
+              "RelativeToolTip": "OOP2\\VeryBigNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:32:49.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BigNumber.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP2\\BigNumber.cs",
+              "RelativeDocumentMoniker": "OOP2\\BigNumber.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP2\\BigNumber.cs",
+              "RelativeToolTip": "OOP2\\BigNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:29:18.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Number.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP2\\Number.cs",
+              "RelativeDocumentMoniker": "OOP2\\Number.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP2\\Number.cs",
+              "RelativeToolTip": "OOP2\\Number.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:28:34.085Z",
               "EditorCaption": ""
             }
           ]

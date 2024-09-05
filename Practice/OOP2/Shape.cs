@@ -10,7 +10,7 @@ namespace OOP2
     {
         public string Name { get; private set; }    
 
-        public string Color { get; private set; }
+        public string Color { get; protected set; }
 
         public Shape(string name)
         {

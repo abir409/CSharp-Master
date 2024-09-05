@@ -1,0 +1,7 @@
+D:\CSharp-Master\Practice\StructureExample\bin\Debug\StructureExample.exe.config
+D:\CSharp-Master\Practice\StructureExample\bin\Debug\StructureExample.exe
+D:\CSharp-Master\Practice\StructureExample\bin\Debug\StructureExample.pdb
+D:\CSharp-Master\Practice\StructureExample\obj\Debug\StructureExample.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\StructureExample\obj\Debug\StructureExample.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\StructureExample\obj\Debug\StructureExample.exe
+D:\CSharp-Master\Practice\StructureExample\obj\Debug\StructureExample.pdb
