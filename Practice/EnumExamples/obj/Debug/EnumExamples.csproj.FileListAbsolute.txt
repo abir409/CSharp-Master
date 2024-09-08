@@ -1,0 +1,7 @@
+D:\CSharp-Master\Practice\EnumExamples\bin\Debug\EnumExamples.exe.config
+D:\CSharp-Master\Practice\EnumExamples\bin\Debug\EnumExamples.exe
+D:\CSharp-Master\Practice\EnumExamples\bin\Debug\EnumExamples.pdb
+D:\CSharp-Master\Practice\EnumExamples\obj\Debug\EnumExamples.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\EnumExamples\obj\Debug\EnumExamples.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\EnumExamples\obj\Debug\EnumExamples.exe
+D:\CSharp-Master\Practice\EnumExamples\obj\Debug\EnumExamples.pdb

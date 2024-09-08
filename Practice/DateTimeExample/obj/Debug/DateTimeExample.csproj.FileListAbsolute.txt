@@ -1,0 +1,7 @@
+D:\CSharp-Master\Practice\DateTimeExample\bin\Debug\DateTimeExample.exe.config
+D:\CSharp-Master\Practice\DateTimeExample\bin\Debug\DateTimeExample.exe
+D:\CSharp-Master\Practice\DateTimeExample\bin\Debug\DateTimeExample.pdb
+D:\CSharp-Master\Practice\DateTimeExample\obj\Debug\DateTimeExample.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\DateTimeExample\obj\Debug\DateTimeExample.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\DateTimeExample\obj\Debug\DateTimeExample.exe
+D:\CSharp-Master\Practice\DateTimeExample\obj\Debug\DateTimeExample.pdb

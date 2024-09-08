@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "D:\\CSharp-Master\\Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E8A6203-F831-4CCA-8F5B-0FA6E84008C5}|StructureExample\\StructureExample.csproj|d:\\csharp-master\\practice\\structureexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E8A6203-F831-4CCA-8F5B-0FA6E84008C5}|StructureExample\\StructureExample.csproj|solutionrelative:structureexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{646F67A6-E917-4051-B619-B967DC0D8B9C}|DateTimeExample\\DateTimeExample.csproj|d:\\csharp-master\\practice\\datetimeexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646F67A6-E917-4051-B619-B967DC0D8B9C}|DateTimeExample\\DateTimeExample.csproj|solutionrelative:datetimeexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E8A6203-F831-4CCA-8F5B-0FA6E84008C5}|StructureExample\\StructureExample.csproj|d:\\csharp-master\\practice\\structureexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E8A6203-F831-4CCA-8F5B-0FA6E84008C5}|StructureExample\\StructureExample.csproj|solutionrelative:structureexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48D9A705-EFEA-49FE-880B-32022E2E5662}|EnumExamples\\EnumExamples.csproj|d:\\csharp-master\\practice\\enumexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D9A705-EFEA-49FE-880B-32022E2E5662}|EnumExamples\\EnumExamples.csproj|solutionrelative:enumexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|d:\\csharp-master\\practice\\oop2\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|solutionrelative:oop2\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48D9A705-EFEA-49FE-880B-32022E2E5662}|EnumExamples\\EnumExamples.csproj|d:\\csharp-master\\practice\\enumexamples\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D9A705-EFEA-49FE-880B-32022E2E5662}|EnumExamples\\EnumExamples.csproj|solutionrelative:enumexamples\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|d:\\csharp-master\\practice\\oop2\\bignumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|solutionrelative:oop2\\bignumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|d:\\csharp-master\\practice\\oop2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|solutionrelative:oop2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|d:\\csharp-master\\practice\\oop2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|solutionrelative:oop2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|d:\\csharp-master\\practice\\oop2\\verybignumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1855E9B5-526E-47D0-BEFF-EA66235478CF}|OOP2\\OOP2.csproj|solutionrelative:oop2\\verybignumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48D9A705-EFEA-49FE-880B-32022E2E5662}|EnumExamples\\EnumExamples.csproj|d:\\csharp-master\\practice\\enumexamples\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D9A705-EFEA-49FE-880B-32022E2E5662}|EnumExamples\\EnumExamples.csproj|solutionrelative:enumexamples\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\StructureExample\\Person.cs",
-              "RelativeDocumentMoniker": "StructureExample\\Person.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\StructureExample\\Person.cs",
-              "RelativeToolTip": "StructureExample\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T10:08:17.022Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\StructureExample\\Program.cs",
-              "RelativeDocumentMoniker": "StructureExample\\Program.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\StructureExample\\Program.cs",
-              "RelativeToolTip": "StructureExample\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAgwA0AAAAdAAAA",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\DateTimeExample\\Program.cs",
+              "RelativeDocumentMoniker": "DateTimeExample\\Program.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\DateTimeExample\\Program.cs",
+              "RelativeToolTip": "DateTimeExample\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T09:13:51.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP2\\Circle.cs",
-              "RelativeDocumentMoniker": "OOP2\\Circle.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP2\\Circle.cs",
-              "RelativeToolTip": "OOP2\\Circle.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:09:14.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP2\\Shape.cs",
-              "RelativeDocumentMoniker": "OOP2\\Shape.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP2\\Shape.cs",
-              "RelativeToolTip": "OOP2\\Shape.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBIAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:09:15.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VeryBigNumber.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP2\\VeryBigNumber.cs",
-              "RelativeDocumentMoniker": "OOP2\\VeryBigNumber.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP2\\VeryBigNumber.cs",
-              "RelativeToolTip": "OOP2\\VeryBigNumber.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:32:49.918Z",
+              "WhenOpened": "2024-09-08T10:46:17.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BigNumber.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP2\\BigNumber.cs",
-              "RelativeDocumentMoniker": "OOP2\\BigNumber.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP2\\BigNumber.cs",
-              "RelativeToolTip": "OOP2\\BigNumber.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Title": "UserStatus.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\EnumExamples\\UserStatus.cs",
+              "RelativeDocumentMoniker": "EnumExamples\\UserStatus.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\EnumExamples\\UserStatus.cs",
+              "RelativeToolTip": "EnumExamples\\UserStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:29:18.869Z",
+              "WhenOpened": "2024-09-08T09:36:56.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Number.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\OOP2\\Number.cs",
-              "RelativeDocumentMoniker": "OOP2\\Number.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\OOP2\\Number.cs",
-              "RelativeToolTip": "OOP2\\Number.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\EnumExamples\\User.cs",
+              "RelativeDocumentMoniker": "EnumExamples\\User.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\EnumExamples\\User.cs",
+              "RelativeToolTip": "EnumExamples\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:28:34.085Z",
+              "WhenOpened": "2024-09-08T09:32:34.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\EnumExamples\\Program.cs",
+              "RelativeDocumentMoniker": "EnumExamples\\Program.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\EnumExamples\\Program.cs",
+              "RelativeToolTip": "EnumExamples\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T09:14:11.7Z",
               "EditorCaption": ""
             }
           ]
