@@ -1,0 +1,7 @@
+D:\CSharp-Master\Practice\ParameterModifiers\bin\Debug\ParameterModifiers.exe.config
+D:\CSharp-Master\Practice\ParameterModifiers\bin\Debug\ParameterModifiers.exe
+D:\CSharp-Master\Practice\ParameterModifiers\bin\Debug\ParameterModifiers.pdb
+D:\CSharp-Master\Practice\ParameterModifiers\obj\Debug\ParameterModifiers.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\ParameterModifiers\obj\Debug\ParameterModifiers.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\ParameterModifiers\obj\Debug\ParameterModifiers.exe
+D:\CSharp-Master\Practice\ParameterModifiers\obj\Debug\ParameterModifiers.pdb

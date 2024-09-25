@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\CSharp-Master\\Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{646F67A6-E917-4051-B619-B967DC0D8B9C}|DateTimeExample\\DateTimeExample.csproj|d:\\csharp-master\\practice\\datetimeexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{646F67A6-E917-4051-B619-B967DC0D8B9C}|DateTimeExample\\DateTimeExample.csproj|solutionrelative:datetimeexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7019792B-FF2C-4FC5-8B00-89E82F69A044}|NullableTypeExample\\NullableTypeExample.csproj|d:\\csharp-master\\practice\\nullabletypeexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7019792B-FF2C-4FC5-8B00-89E82F69A044}|NullableTypeExample\\NullableTypeExample.csproj|solutionrelative:nullabletypeexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48D9A705-EFEA-49FE-880B-32022E2E5662}|EnumExamples\\EnumExamples.csproj|d:\\csharp-master\\practice\\enumexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48D9A705-EFEA-49FE-880B-32022E2E5662}|EnumExamples\\EnumExamples.csproj|solutionrelative:enumexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7019792B-FF2C-4FC5-8B00-89E82F69A044}|NullableTypeExample\\NullableTypeExample.csproj|D:\\CSharp-Master\\Practice\\nullabletypeexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7019792B-FF2C-4FC5-8B00-89E82F69A044}|NullableTypeExample\\NullableTypeExample.csproj|solutionrelative:nullabletypeexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48D9A705-EFEA-49FE-880B-32022E2E5662}|EnumExamples\\EnumExamples.csproj|d:\\csharp-master\\practice\\enumexamples\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48D9A705-EFEA-49FE-880B-32022E2E5662}|EnumExamples\\EnumExamples.csproj|solutionrelative:enumexamples\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{560231B2-BF18-4D30-B008-F4132768A5E8}|TupleExample\\TupleExample.csproj|D:\\CSharp-Master\\Practice\\tupleexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560231B2-BF18-4D30-B008-F4132768A5E8}|TupleExample\\TupleExample.csproj|solutionrelative:tupleexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48D9A705-EFEA-49FE-880B-32022E2E5662}|EnumExamples\\EnumExamples.csproj|d:\\csharp-master\\practice\\enumexamples\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48D9A705-EFEA-49FE-880B-32022E2E5662}|EnumExamples\\EnumExamples.csproj|solutionrelative:enumexamples\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{560231B2-BF18-4D30-B008-F4132768A5E8}|TupleExample\\TupleExample.csproj|D:\\CSharp-Master\\Practice\\tupleexample\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560231B2-BF18-4D30-B008-F4132768A5E8}|TupleExample\\TupleExample.csproj|solutionrelative:tupleexample\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560231B2-BF18-4D30-B008-F4132768A5E8}|TupleExample\\TupleExample.csproj|D:\\CSharp-Master\\Practice\\tupleexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560231B2-BF18-4D30-B008-F4132768A5E8}|TupleExample\\TupleExample.csproj|solutionrelative:tupleexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\NullableTypeExample\\Person.cs",
+              "RelativeDocumentMoniker": "NullableTypeExample\\Person.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\NullableTypeExample\\Person.cs",
+              "RelativeToolTip": "NullableTypeExample\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:53:38.861Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\DateTimeExample\\Program.cs",
-              "RelativeDocumentMoniker": "DateTimeExample\\Program.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\DateTimeExample\\Program.cs",
-              "RelativeToolTip": "DateTimeExample\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\NullableTypeExample\\Program.cs",
+              "RelativeDocumentMoniker": "NullableTypeExample\\Program.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\NullableTypeExample\\Program.cs",
+              "RelativeToolTip": "NullableTypeExample\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwCUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T10:46:17.28Z",
+              "WhenOpened": "2024-09-22T10:39:39.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserStatus.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\EnumExamples\\UserStatus.cs",
-              "RelativeDocumentMoniker": "EnumExamples\\UserStatus.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\EnumExamples\\UserStatus.cs",
-              "RelativeToolTip": "EnumExamples\\UserStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\TupleExample\\Order.cs",
+              "RelativeDocumentMoniker": "TupleExample\\Order.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\TupleExample\\Order.cs",
+              "RelativeToolTip": "TupleExample\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T09:36:56.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T06:04:00.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\TupleExample\\Person.cs",
+              "RelativeDocumentMoniker": "TupleExample\\Person.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\TupleExample\\Person.cs",
+              "RelativeToolTip": "TupleExample\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:00:00.918Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\EnumExamples\\User.cs",
-              "RelativeDocumentMoniker": "EnumExamples\\User.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\EnumExamples\\User.cs",
-              "RelativeToolTip": "EnumExamples\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T09:32:34.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\EnumExamples\\Program.cs",
-              "RelativeDocumentMoniker": "EnumExamples\\Program.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\EnumExamples\\Program.cs",
-              "RelativeToolTip": "EnumExamples\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\TupleExample\\Program.cs",
+              "RelativeDocumentMoniker": "TupleExample\\Program.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\TupleExample\\Program.cs",
+              "RelativeToolTip": "TupleExample\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T09:14:11.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T09:22:49.545Z"
             }
           ]
         }

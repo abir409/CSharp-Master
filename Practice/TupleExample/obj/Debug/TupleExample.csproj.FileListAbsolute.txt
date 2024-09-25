@@ -1,0 +1,7 @@
+D:\CSharp-Master\Practice\TupleExample\bin\Debug\TupleExample.exe.config
+D:\CSharp-Master\Practice\TupleExample\bin\Debug\TupleExample.exe
+D:\CSharp-Master\Practice\TupleExample\bin\Debug\TupleExample.pdb
+D:\CSharp-Master\Practice\TupleExample\obj\Debug\TupleExample.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\TupleExample\obj\Debug\TupleExample.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\TupleExample\obj\Debug\TupleExample.exe
+D:\CSharp-Master\Practice\TupleExample\obj\Debug\TupleExample.pdb
