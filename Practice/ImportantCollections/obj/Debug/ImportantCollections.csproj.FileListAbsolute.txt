@@ -1,0 +1,7 @@
+D:\CSharp-Master\Practice\ImportantCollections\bin\Debug\ImportantCollections.exe.config
+D:\CSharp-Master\Practice\ImportantCollections\bin\Debug\ImportantCollections.exe
+D:\CSharp-Master\Practice\ImportantCollections\bin\Debug\ImportantCollections.pdb
+D:\CSharp-Master\Practice\ImportantCollections\obj\Debug\ImportantCollections.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\ImportantCollections\obj\Debug\ImportantCollections.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\ImportantCollections\obj\Debug\ImportantCollections.exe
+D:\CSharp-Master\Practice\ImportantCollections\obj\Debug\ImportantCollections.pdb

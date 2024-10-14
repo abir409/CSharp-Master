@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\CSharp-Master\\Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7019792B-FF2C-4FC5-8B00-89E82F69A044}|NullableTypeExample\\NullableTypeExample.csproj|d:\\csharp-master\\practice\\nullabletypeexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7019792B-FF2C-4FC5-8B00-89E82F69A044}|NullableTypeExample\\NullableTypeExample.csproj|solutionrelative:nullabletypeexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7176637E-FF28-4832-AF6D-1A6BE9D20191}|ImportantCollections\\ImportantCollections.csproj|d:\\csharp-master\\practice\\importantcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7176637E-FF28-4832-AF6D-1A6BE9D20191}|ImportantCollections\\ImportantCollections.csproj|solutionrelative:importantcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7019792B-FF2C-4FC5-8B00-89E82F69A044}|NullableTypeExample\\NullableTypeExample.csproj|D:\\CSharp-Master\\Practice\\nullabletypeexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7019792B-FF2C-4FC5-8B00-89E82F69A044}|NullableTypeExample\\NullableTypeExample.csproj|solutionrelative:nullabletypeexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{026DA76F-A019-4187-BEFC-21762D5C2138}|GenericsExamples\\GenericsExamples.csproj|d:\\csharp-master\\practice\\genericsexamples\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026DA76F-A019-4187-BEFC-21762D5C2138}|GenericsExamples\\GenericsExamples.csproj|solutionrelative:genericsexamples\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{560231B2-BF18-4D30-B008-F4132768A5E8}|TupleExample\\TupleExample.csproj|D:\\CSharp-Master\\Practice\\tupleexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{560231B2-BF18-4D30-B008-F4132768A5E8}|TupleExample\\TupleExample.csproj|solutionrelative:tupleexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{026DA76F-A019-4187-BEFC-21762D5C2138}|GenericsExamples\\GenericsExamples.csproj|d:\\csharp-master\\practice\\genericsexamples\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026DA76F-A019-4187-BEFC-21762D5C2138}|GenericsExamples\\GenericsExamples.csproj|solutionrelative:genericsexamples\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{560231B2-BF18-4D30-B008-F4132768A5E8}|TupleExample\\TupleExample.csproj|D:\\CSharp-Master\\Practice\\tupleexample\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{560231B2-BF18-4D30-B008-F4132768A5E8}|TupleExample\\TupleExample.csproj|solutionrelative:tupleexample\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{560231B2-BF18-4D30-B008-F4132768A5E8}|TupleExample\\TupleExample.csproj|D:\\CSharp-Master\\Practice\\tupleexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{560231B2-BF18-4D30-B008-F4132768A5E8}|TupleExample\\TupleExample.csproj|solutionrelative:tupleexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{026DA76F-A019-4187-BEFC-21762D5C2138}|GenericsExamples\\GenericsExamples.csproj|d:\\csharp-master\\practice\\genericsexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026DA76F-A019-4187-BEFC-21762D5C2138}|GenericsExamples\\GenericsExamples.csproj|solutionrelative:genericsexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\NullableTypeExample\\Person.cs",
-              "RelativeDocumentMoniker": "NullableTypeExample\\Person.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\NullableTypeExample\\Person.cs",
-              "RelativeToolTip": "NullableTypeExample\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T10:53:38.861Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\NullableTypeExample\\Program.cs",
-              "RelativeDocumentMoniker": "NullableTypeExample\\Program.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\NullableTypeExample\\Program.cs",
-              "RelativeToolTip": "NullableTypeExample\\Program.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAcwCUAAAAMAAAA",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\ImportantCollections\\Program.cs",
+              "RelativeDocumentMoniker": "ImportantCollections\\Program.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\ImportantCollections\\Program.cs",
+              "RelativeToolTip": "ImportantCollections\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAkwDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T10:39:39.533Z",
+              "WhenOpened": "2024-10-14T08:47:04.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\GenericsExamples\\Product.cs",
+              "RelativeDocumentMoniker": "GenericsExamples\\Product.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\GenericsExamples\\Product.cs",
+              "RelativeToolTip": "GenericsExamples\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:57:57.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coordinate.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\GenericsExamples\\Coordinate.cs",
+              "RelativeDocumentMoniker": "GenericsExamples\\Coordinate.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\GenericsExamples\\Coordinate.cs",
+              "RelativeToolTip": "GenericsExamples\\Coordinate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:45:32.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\TupleExample\\Order.cs",
-              "RelativeDocumentMoniker": "TupleExample\\Order.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\TupleExample\\Order.cs",
-              "RelativeToolTip": "TupleExample\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T06:04:00.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\TupleExample\\Person.cs",
-              "RelativeDocumentMoniker": "TupleExample\\Person.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\TupleExample\\Person.cs",
-              "RelativeToolTip": "TupleExample\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T06:00:00.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\TupleExample\\Program.cs",
-              "RelativeDocumentMoniker": "TupleExample\\Program.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\TupleExample\\Program.cs",
-              "RelativeToolTip": "TupleExample\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAAkAAAA",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\GenericsExamples\\Program.cs",
+              "RelativeDocumentMoniker": "GenericsExamples\\Program.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\GenericsExamples\\Program.cs",
+              "RelativeToolTip": "GenericsExamples\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T09:22:49.545Z"
+              "WhenOpened": "2024-10-14T05:42:11.831Z",
+              "EditorCaption": ""
             }
           ]
         }

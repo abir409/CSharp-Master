@@ -1,0 +1,7 @@
+D:\CSharp-Master\Practice\AnnonymousObjects\bin\Debug\AnnonymousObjects.exe.config
+D:\CSharp-Master\Practice\AnnonymousObjects\bin\Debug\AnnonymousObjects.exe
+D:\CSharp-Master\Practice\AnnonymousObjects\bin\Debug\AnnonymousObjects.pdb
+D:\CSharp-Master\Practice\AnnonymousObjects\obj\Debug\AnnonymousObjects.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\AnnonymousObjects\obj\Debug\AnnonymousObjects.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\AnnonymousObjects\obj\Debug\AnnonymousObjects.exe
+D:\CSharp-Master\Practice\AnnonymousObjects\obj\Debug\AnnonymousObjects.pdb
