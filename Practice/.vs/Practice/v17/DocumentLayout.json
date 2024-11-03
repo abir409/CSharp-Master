@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\CSharp-Master\\Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7176637E-FF28-4832-AF6D-1A6BE9D20191}|ImportantCollections\\ImportantCollections.csproj|d:\\csharp-master\\practice\\importantcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7176637E-FF28-4832-AF6D-1A6BE9D20191}|ImportantCollections\\ImportantCollections.csproj|solutionrelative:importantcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B1F9A48-2BFA-40D7-B79F-43DE8D4A12E0}|AdoNetExample\\AdoNetExample.csproj|d:\\csharp-master\\practice\\adonetexample\\datautility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1F9A48-2BFA-40D7-B79F-43DE8D4A12E0}|AdoNetExample\\AdoNetExample.csproj|solutionrelative:adonetexample\\datautility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026DA76F-A019-4187-BEFC-21762D5C2138}|GenericsExamples\\GenericsExamples.csproj|d:\\csharp-master\\practice\\genericsexamples\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{026DA76F-A019-4187-BEFC-21762D5C2138}|GenericsExamples\\GenericsExamples.csproj|solutionrelative:genericsexamples\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{026DA76F-A019-4187-BEFC-21762D5C2138}|GenericsExamples\\GenericsExamples.csproj|d:\\csharp-master\\practice\\genericsexamples\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{026DA76F-A019-4187-BEFC-21762D5C2138}|GenericsExamples\\GenericsExamples.csproj|solutionrelative:genericsexamples\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{026DA76F-A019-4187-BEFC-21762D5C2138}|GenericsExamples\\GenericsExamples.csproj|d:\\csharp-master\\practice\\genericsexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{026DA76F-A019-4187-BEFC-21762D5C2138}|GenericsExamples\\GenericsExamples.csproj|solutionrelative:genericsexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B1F9A48-2BFA-40D7-B79F-43DE8D4A12E0}|AdoNetExample\\AdoNetExample.csproj|D:\\CSharp-Master\\Practice\\adonetexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1F9A48-2BFA-40D7-B79F-43DE8D4A12E0}|AdoNetExample\\AdoNetExample.csproj|solutionrelative:adonetexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\ImportantCollections\\Program.cs",
-              "RelativeDocumentMoniker": "ImportantCollections\\Program.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\ImportantCollections\\Program.cs",
-              "RelativeToolTip": "ImportantCollections\\Program.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAkwDYAAAAAAAAA",
+              "Title": "DataUtility.cs",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\AdoNetExample\\DataUtility.cs",
+              "RelativeDocumentMoniker": "AdoNetExample\\DataUtility.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\AdoNetExample\\DataUtility.cs",
+              "RelativeToolTip": "AdoNetExample\\DataUtility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:47:04.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\GenericsExamples\\Product.cs",
-              "RelativeDocumentMoniker": "GenericsExamples\\Product.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\GenericsExamples\\Product.cs",
-              "RelativeToolTip": "GenericsExamples\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T05:57:57.258Z",
+              "WhenOpened": "2024-10-23T08:45:40.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Coordinate.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\GenericsExamples\\Coordinate.cs",
-              "RelativeDocumentMoniker": "GenericsExamples\\Coordinate.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\GenericsExamples\\Coordinate.cs",
-              "RelativeToolTip": "GenericsExamples\\Coordinate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T05:45:32.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\GenericsExamples\\Program.cs",
-              "RelativeDocumentMoniker": "GenericsExamples\\Program.cs",
-              "ToolTip": "D:\\CSharp-Master\\Practice\\GenericsExamples\\Program.cs",
-              "RelativeToolTip": "GenericsExamples\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "DocumentMoniker": "D:\\CSharp-Master\\Practice\\AdoNetExample\\Program.cs",
+              "RelativeDocumentMoniker": "AdoNetExample\\Program.cs",
+              "ToolTip": "D:\\CSharp-Master\\Practice\\AdoNetExample\\Program.cs",
+              "RelativeToolTip": "AdoNetExample\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T05:42:11.831Z",
+              "WhenOpened": "2024-10-23T08:44:40.208Z",
               "EditorCaption": ""
             }
           ]

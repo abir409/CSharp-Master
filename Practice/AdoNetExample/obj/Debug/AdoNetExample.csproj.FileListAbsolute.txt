@@ -1,0 +1,10 @@
+D:\CSharp-Master\Practice\AdoNetExample\bin\Debug\AdoNetExample.exe.config
+D:\CSharp-Master\Practice\AdoNetExample\bin\Debug\AdoNetExample.exe
+D:\CSharp-Master\Practice\AdoNetExample\bin\Debug\AdoNetExample.pdb
+D:\CSharp-Master\Practice\AdoNetExample\bin\Debug\System.Data.SqlClient.dll
+D:\CSharp-Master\Practice\AdoNetExample\bin\Debug\System.Data.SqlClient.xml
+D:\CSharp-Master\Practice\AdoNetExample\obj\Debug\AdoNetExample.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\AdoNetExample\obj\Debug\AdoNetExample.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\AdoNetExample\obj\Debug\AdoNetEx.FC4FC2FC.Up2Date
+D:\CSharp-Master\Practice\AdoNetExample\obj\Debug\AdoNetExample.exe
+D:\CSharp-Master\Practice\AdoNetExample\obj\Debug\AdoNetExample.pdb

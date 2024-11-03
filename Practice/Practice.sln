@@ -49,6 +49,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsExamples", "Generic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportantCollections", "ImportantCollections\ImportantCollections.csproj", "{7176637E-FF28-4832-AF6D-1A6BE9D20191}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportantInterfaces", "ImportantInterfaces\ImportantInterfaces.csproj", "{7058E0CB-9679-4BE2-B53B-68D947C77A48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNetExample", "AdoNetExample\AdoNetExample.csproj", "{4B1F9A48-2BFA-40D7-B79F-43DE8D4A12E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +151,14 @@ Global
 		{7176637E-FF28-4832-AF6D-1A6BE9D20191}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7176637E-FF28-4832-AF6D-1A6BE9D20191}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7176637E-FF28-4832-AF6D-1A6BE9D20191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7058E0CB-9679-4BE2-B53B-68D947C77A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7058E0CB-9679-4BE2-B53B-68D947C77A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7058E0CB-9679-4BE2-B53B-68D947C77A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7058E0CB-9679-4BE2-B53B-68D947C77A48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B1F9A48-2BFA-40D7-B79F-43DE8D4A12E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B1F9A48-2BFA-40D7-B79F-43DE8D4A12E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B1F9A48-2BFA-40D7-B79F-43DE8D4A12E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B1F9A48-2BFA-40D7-B79F-43DE8D4A12E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -52,6 +52,13 @@ namespace ImportantCollections
             queue.Enqueue("dhaka");
             var first = queue.Dequeue();
             var first2 = queue.Peek();
+            
+            SortedDictionary<string, int> dict = new SortedDictionary<string, int>();
+            SortedList<string, int> slist = new SortedList<string, int>();
+            SortedSet<int> sset = new SortedSet<int>();
+
+            LinkedList<string> llist = new LinkedList<string>();
+
 
 
         }
