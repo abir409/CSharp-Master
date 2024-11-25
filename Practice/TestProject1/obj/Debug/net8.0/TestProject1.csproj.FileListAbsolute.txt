@@ -1,0 +1,6 @@
+D:\CSharp-Master\Practice\TestProject1\obj\Debug\net8.0\TestProject1.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\TestProject1\obj\Debug\net8.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Master\Practice\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfoInputs.cache
+D:\CSharp-Master\Practice\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfo.cs
+D:\CSharp-Master\Practice\TestProject1\obj\Debug\net8.0\TestProject1.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\TestProject1\obj\Debug\net8.0\TestProject1.sourcelink.json

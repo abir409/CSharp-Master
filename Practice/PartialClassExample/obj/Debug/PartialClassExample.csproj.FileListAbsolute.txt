@@ -1,0 +1,7 @@
+D:\CSharp-Master\Practice\PartialClassExample\bin\Debug\PartialClassExample.exe.config
+D:\CSharp-Master\Practice\PartialClassExample\bin\Debug\PartialClassExample.exe
+D:\CSharp-Master\Practice\PartialClassExample\bin\Debug\PartialClassExample.pdb
+D:\CSharp-Master\Practice\PartialClassExample\obj\Debug\PartialClassExample.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\PartialClassExample\obj\Debug\PartialClassExample.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\PartialClassExample\obj\Debug\PartialClassExample.exe
+D:\CSharp-Master\Practice\PartialClassExample\obj\Debug\PartialClassExample.pdb

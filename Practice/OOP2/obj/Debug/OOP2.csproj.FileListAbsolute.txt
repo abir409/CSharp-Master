@@ -1,0 +1,7 @@
+D:\CSharp-Master\Practice\OOP2\bin\Debug\OOP2.exe.config
+D:\CSharp-Master\Practice\OOP2\bin\Debug\OOP2.exe
+D:\CSharp-Master\Practice\OOP2\bin\Debug\OOP2.pdb
+D:\CSharp-Master\Practice\OOP2\obj\Debug\OOP2.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\OOP2\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\OOP2\obj\Debug\OOP2.exe
+D:\CSharp-Master\Practice\OOP2\obj\Debug\OOP2.pdb

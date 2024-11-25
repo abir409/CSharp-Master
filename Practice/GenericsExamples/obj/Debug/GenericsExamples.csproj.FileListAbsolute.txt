@@ -1,0 +1,2 @@
+D:\CSharp-Master\Practice\GenericsExamples\obj\Debug\GenericsExamples.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\GenericsExamples\obj\Debug\GenericsExamples.csproj.CoreCompileInputs.cache

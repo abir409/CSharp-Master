@@ -1,0 +1,7 @@
+D:\CSharp-Master\Practice\ImportantInterfaces\bin\Debug\ImportantInterfaces.exe.config
+D:\CSharp-Master\Practice\ImportantInterfaces\bin\Debug\ImportantInterfaces.exe
+D:\CSharp-Master\Practice\ImportantInterfaces\bin\Debug\ImportantInterfaces.pdb
+D:\CSharp-Master\Practice\ImportantInterfaces\obj\Debug\ImportantInterfaces.csproj.AssemblyReference.cache
+D:\CSharp-Master\Practice\ImportantInterfaces\obj\Debug\ImportantInterfaces.csproj.CoreCompileInputs.cache
+D:\CSharp-Master\Practice\ImportantInterfaces\obj\Debug\ImportantInterfaces.exe
+D:\CSharp-Master\Practice\ImportantInterfaces\obj\Debug\ImportantInterfaces.pdb
