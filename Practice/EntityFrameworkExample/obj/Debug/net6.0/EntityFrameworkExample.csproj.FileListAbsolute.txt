@@ -57,3 +57,5 @@ D:\CSharp-Master\Practice\EntityFrameworkExample\obj\Debug\net6.0\EntityFramewor
 D:\CSharp-Master\Practice\EntityFrameworkExample\obj\Debug\net6.0\ref\EntityFrameworkExample.dll
 D:\CSharp-Master\Practice\EntityFrameworkExample\bin\Debug\net6.0\Humanizer.dll
 D:\CSharp-Master\Practice\EntityFrameworkExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CSharp-Master\Practice\EntityFrameworkExample\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\CSharp-Master\Practice\EntityFrameworkExample\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll

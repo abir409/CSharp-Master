@@ -2,6 +2,7 @@
 using System.Reflection;
 using Microsoft.EntityFrameworkCore;
 using EntityFrameworkExample.Entities;
+using Microsoft.Extensions.Configuration;
 
 namespace EntityFrameworkExample
 {
@@ -9,9 +10,10 @@ namespace EntityFrameworkExample
     {
         private readonly string _connectionString;
         private readonly string _migrationAssembly;
+      
 
         public TrainingDbContext()
-        {
+        { 
             _connectionString = @"Server=192.168.11.148;Database=CSharpnew;User Id=sa;Password=fintech@123;";
             _migrationAssembly = Assembly.GetExecutingAssembly().GetName().Name; // Fixed parentheses issue here
         }
@@ -20,10 +22,8 @@ namespace EntityFrameworkExample
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(_connectionString, options =>
-                {
-                    options.MigrationsAssembly(_migrationAssembly);
-                });
+                optionsBuilder.UseSqlServer(_connectionString, (x) => x.MigrationsAssembly(_migrationAssembly));
+       
             }
 
             base.OnConfiguring(optionsBuilder);

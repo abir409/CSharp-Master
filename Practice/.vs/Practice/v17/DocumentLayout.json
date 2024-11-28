@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\CSharp-Master\\Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC1BA0E4-5693-4950-9BED-963E2747CA6D}|EntityFrameworkExample\\EntityFrameworkExample.csproj|d:\\csharp-master\\practice\\entityframeworkexample\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC1BA0E4-5693-4950-9BED-963E2747CA6D}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC1BA0E4-5693-4950-9BED-963E2747CA6D}|EntityFrameworkExample\\EntityFrameworkExample.csproj|d:\\csharp-master\\practice\\entityframeworkexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1BA0E4-5693-4950-9BED-963E2747CA6D}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC1BA0E4-5693-4950-9BED-963E2747CA6D}|EntityFrameworkExample\\EntityFrameworkExample.csproj|d:\\csharp-master\\practice\\entityframeworkexample\\trainingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{DC1BA0E4-5693-4950-9BED-963E2747CA6D}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC1BA0E4-5693-4950-9BED-963E2747CA6D}|EntityFrameworkExample\\EntityFrameworkExample.csproj|d:\\csharp-master\\practice\\entityframeworkexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC1BA0E4-5693-4950-9BED-963E2747CA6D}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC1BA0E4-5693-4950-9BED-963E2747CA6D}|EntityFrameworkExample\\EntityFrameworkExample.csproj|d:\\csharp-master\\practice\\entityframeworkexample\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1BA0E4-5693-4950-9BED-963E2747CA6D}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\CSharp-Master\\Practice\\EntityFrameworkExample\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "EntityFrameworkExample\\Entities\\Student.cs",
               "ToolTip": "D:\\CSharp-Master\\Practice\\EntityFrameworkExample\\Entities\\Student.cs",
               "RelativeToolTip": "EntityFrameworkExample\\Entities\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T07:13:32.76Z",
               "EditorCaption": ""
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "EntityFrameworkExample\\TrainingDbContext.cs",
               "ToolTip": "D:\\CSharp-Master\\Practice\\EntityFrameworkExample\\TrainingDbContext.cs",
               "RelativeToolTip": "EntityFrameworkExample\\TrainingDbContext.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwCkAAAA0AAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAwAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T11:34:55.46Z",
               "EditorCaption": ""
@@ -62,20 +62,20 @@
               "RelativeDocumentMoniker": "EntityFrameworkExample\\Entities\\Course.cs",
               "ToolTip": "D:\\CSharp-Master\\Practice\\EntityFrameworkExample\\Entities\\Course.cs",
               "RelativeToolTip": "EntityFrameworkExample\\Entities\\Course.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T11:31:40.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CSharp-Master\\Practice\\EntityFrameworkExample\\Program.cs",
               "RelativeDocumentMoniker": "EntityFrameworkExample\\Program.cs",
               "ToolTip": "D:\\CSharp-Master\\Practice\\EntityFrameworkExample\\Program.cs",
               "RelativeToolTip": "EntityFrameworkExample\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T11:23:57.678Z",
               "EditorCaption": ""
