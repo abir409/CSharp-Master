@@ -38,8 +38,7 @@
               "RelativeToolTip": "EntityFrameworkExample\\Entities\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:13:32.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T07:13:32.76Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "EntityFrameworkExample\\TrainingDbContext.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAYwAwAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T11:34:55.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T11:34:55.46Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "EntityFrameworkExample\\Entities\\Course.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T11:31:40.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T11:31:40.572Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "EntityFrameworkExample\\Program.cs",
               "ToolTip": "D:\\CSharp-Master\\Practice\\EntityFrameworkExample\\Program.cs",
               "RelativeToolTip": "EntityFrameworkExample\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAABRAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T11:23:57.678Z",
               "EditorCaption": ""
